@@ -38,18 +38,20 @@ You can test all API endpoints using the Postman collection:
 ## Setup Instructions (Local)
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Anu-code02/Task-Manager.git
+   git clone https://github.com/Anu-code02/FrontendAssignment_Primetrade.git
 
 2. Install Dependencies:
    npm install
 
 3. Add .env File:
    PORT=5000
+   
    MONGO_URI=your_mongodb_connection_string
+   
    JWT_SECRET=your_secret_key
 
-4. Run Backend:
+5. Run Backend:
    npm start
 
-5. Run Fronted:
+6. Run Fronted:
    npm run dev
