@@ -1,7 +1,6 @@
-# Task Manager
-
-A full‑stack MERN project to manage tasks   
-This project demonstrates **user authentication (Register/Login)** and **CRUD operations** using MongoDB, Express, React, and Node.js.
+# Frontend Developer Task – MERN Auth Dashboard
+##  Project Overview:
+This project was built as part of the **Frontend Developer Intern Assignment** for Primetrade. It is a scalable MERN application with authentication and a dashboard that supports CRUD operations.
 
 ## Features
 - User Registration & Login (JWT Authentication)
